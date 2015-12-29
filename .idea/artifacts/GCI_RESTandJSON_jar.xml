@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GCI-RESTandJSON:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GCI_RESTandJSON_jar</output-path>
+    <root id="archive" name="GCI-RESTandJSON.jar">
+      <element id="module-output" name="GCI-RESTandJSON" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/gson-2.5.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
