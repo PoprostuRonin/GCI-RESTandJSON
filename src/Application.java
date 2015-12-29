@@ -7,9 +7,6 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.net.URL;
 
-/**
- * Created by Ronin on 2015-12-28.
- */
 public class Application {
     private JTextField fetchIDTextField;
     private JButton fetchButton;
